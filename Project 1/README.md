@@ -6,5 +6,7 @@ Following agents are implemented:
 2. `DFSAgent`
 3. `AStarAgent` 
 
+To change the agent behaviour make changes in `pacmanAgents.py` 
+
 To run the program: 
 `pacman.py -p AgentName` 
